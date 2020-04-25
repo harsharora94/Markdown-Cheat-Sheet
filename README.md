@@ -1,4 +1,4 @@
-# Quick Overview of Markdown:
+# Quick Overview of Markdown
 
 Markdown is a way to style text on the Web. 
 
