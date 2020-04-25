@@ -1,4 +1,5 @@
-# Markdown-Cheat-Sheet
+# Quick Overview of Mardown:
+
 Markdown is a way to style text on the Web. 
 
 Following are the things which can done using Markdown as mentioned below: 
